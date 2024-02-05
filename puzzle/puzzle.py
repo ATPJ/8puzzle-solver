@@ -1,3 +1,9 @@
+"""
+Its a fork from
+https://github.com/Jain-Pratiksha/Python/blob/master/Artificial%20Intelligence/AI_EXP3_Puzzle.py
+but this code have better CLI application and it shows the steps correctly.
+"""
+
 from copy import deepcopy
 
 
